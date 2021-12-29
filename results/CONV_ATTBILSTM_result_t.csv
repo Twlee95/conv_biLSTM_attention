@@ -1,0 +1,2 @@
+model,stock,entire_exp_time,avg_test_ACC,avg_test_MCC
+CONV_ATTBILSTM,AAPL,23.769989252090454,0.71875,0.0
